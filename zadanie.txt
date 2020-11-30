@@ -1,0 +1,3 @@
+napisz szablon transform
+Ktory bierze dwie tablice, liczbę elementów oraz funktor
+I zapisuje do destination wynik wywolania funktora z elemenetami source
